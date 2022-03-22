@@ -16,5 +16,5 @@ New self-host messenger
 [✅] Login
 
 
-# Featurs (Voice)
+# Features (Voice)
 [❓] Unknown Status
