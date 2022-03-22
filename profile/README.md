@@ -6,13 +6,15 @@ New self-host messenger
 
 [dmessenger-client](https://github.com/DragonMessenger/dmessenger-client)
 
-# Features
+# Features (Text)
 [✅] SQLite3 Database
 
 [⚠] View messages
 
 [❌] Send message
 
-[❌] Register
+[✅] Login
 
-[❌] Login
+
+# Featurs (Voice)
+[❓] Unknown Status
