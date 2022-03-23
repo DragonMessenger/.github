@@ -17,4 +17,6 @@ New self-host messenger
 
 
 # Features (Voice)
-[❓] Unknown Status
+[✅] Recieve audio
+
+[✅] Send audio
