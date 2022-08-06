@@ -2,7 +2,7 @@
 New self-host messenger
 
 # Repositories
-## Legacy
+## Legacy (Sockets)
 [dmessenger-server](https://github.com/DragonMessenger/dmessenger-server)
 
 [dmessenger-client](https://github.com/DragonMessenger/dmessenger-client)
