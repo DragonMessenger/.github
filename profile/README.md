@@ -1,3 +1,8 @@
+# EOL
+RU: DragonMessenger устарел. Используйте [EXDM](https://github.com/EXDMessenger-EXDM)
+
+EN: DragonMessenger is obsolete. Use [EXDM](https://github.com/EXDMessenger-EXDM)
+
 # DragonMessenger
 New self-host messenger
 
